@@ -4,7 +4,7 @@ com dois alunos sorteados para estudar e apresentar tópicos utilizando como bas
 o livro [Brasileiras em PLN](https://brasileiraspln.com/livro-pln/).
 
 ## Lista de Encontros
-[Lista de Presença](https://docs.google.com/spreadsheets/d/1RFlnmhCNK8sZDEaeh0Mpsr8sJ8VKD_Kr6ZAW2Ik_6yw/edit?usp=sharing) 
+[Lista de Presença](https://forms.gle/mnNrszJBEgUsSfkZ8) 
 | Data | Tópico | Pessoas |
 |------|------|------|
 | 07/03 | [Introdução e Apresentação do Grupo]() | Gustavo Sampaio |
