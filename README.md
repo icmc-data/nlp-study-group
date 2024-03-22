@@ -8,5 +8,5 @@ o livro [Brasileiras em PLN](https://brasileiraspln.com/livro-pln/).
 | Data | Tópico | Pessoas |
 |------|------|------|
 | 07/03 | [Introdução e Apresentação do Grupo](meetings/README.md) | Gustavo Sampaio |
-| 14/03 | [Capítulos 1-3](meetings/README.md) | Artur Lima |
-| 21/03 | [Capítulos 4-5](meetings/README.md) | Gabriel, Gustavo Sampaio |
+| 14/03 | [Capítulos 1-3](meetings/nlp01/README.md) | Artur Lima |
+| 21/03 | [Capítulos 4-5](meetings/nlp02/README.md) | Gabriel, Gustavo Sampaio |
