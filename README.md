@@ -7,6 +7,6 @@ o livro [Brasileiras em PLN](https://brasileiraspln.com/livro-pln/).
 [Lista de Presença](https://docs.google.com/spreadsheets/d/1RFlnmhCNK8sZDEaeh0Mpsr8sJ8VKD_Kr6ZAW2Ik_6yw/edit?usp=sharing) 
 | Data | Tópico | Pessoas |
 |------|------|------|
-| 07/03 | [Introdução e Apresentação do Grupo](meetings/README.md) | Gustavo Sampaio |
+| 07/03 | [Introdução e Apresentação do Grupo]() | Gustavo Sampaio |
 | 14/03 | [Capítulos 1-3](meetings/nlp01/README.md) | Artur Lima |
 | 21/03 | [Capítulos 4-5](meetings/nlp02/README.md) | Gabriel, Gustavo Sampaio |
